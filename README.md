@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIxdXU0d2h5ZmZyeW9lcDVyaG11cHp6NDg3cTFmcmF5dHZlN2d2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZkK3fwlMk8FFFow8Eq/giphy.gif
+
 <!--
 **loek-sn/loek-sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
